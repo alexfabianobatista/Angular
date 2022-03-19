@@ -1,0 +1,15 @@
+{
+  "name": "primeiro_node_pj",
+  "version": "1.0.0",
+  "description": "Teste de Projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Exemplo1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
